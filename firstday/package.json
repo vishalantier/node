@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "node setup ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalantier/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "node",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalantier/node/issues"
+  },
+  "homepage": "https://github.com/vishalantier/node#readme",
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}
